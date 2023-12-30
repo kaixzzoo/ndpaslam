@@ -1,4 +1,4 @@
-### Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
 
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-222222?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.link/objld6)](https://wa.link/objld6)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=pink&link=https://www.instagram.com/kaixzzo)](https://www.instagram.com/kaixzzoo)
@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- credits for gif https://giphy.com/izmiragency -->
 
-<img align="right" height="200" width="300" src="https://media1.giphy.com/media/7ALOsHTCDT5fi/giphy.gif">
+<img align="right" height="160" width="240" src="https://media1.giphy.com/media/7ALOsHTCDT5fi/giphy.gif">
 
 
 -  **Working :** BASH - PYTHON :computer: | Hacking :man_technologist: 
